@@ -2,6 +2,7 @@ language: node_js
 node_js:
  - "node"
 script: 'true'
+deploy:
   provider: heroku
   api_key:
     secure: 8a2aed13-d822-49fe-9d98-d34a0bdd5798
