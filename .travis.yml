@@ -1,7 +1,6 @@
 language: node_js
 node_js:
  - "node"
-script: 'true'
 deploy:
   provider: heroku
   api_key:
