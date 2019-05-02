@@ -7,6 +7,6 @@
   },
   "scripts": {
     "start": "node hello.js",
-    "test": "jest"
+    "test": "jest --forceExit"
   }
 }
