@@ -34,4 +34,4 @@ TBD
 
 ### License
 
-Licensed under the [MIT license](./LICENSE)
+Licensed under the [MIT license](./LICENSE).
