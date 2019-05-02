@@ -1,7 +1,7 @@
 function hello(someone) {
-  return "Hello, " + someone;
+  return "Hello, " + someone + "!";
 }
 
-hello("JavaScript");
+console.log(hello("Heroku"));
 
 module.exports = hello;

@@ -3,6 +3,7 @@
     "jest": "latest"
   },
   "scripts": {
+    "start": "node hello.js",
     "test": "jest"
   }
 }
