@@ -1,4 +1,4 @@
-# Minimalistic Node App Continuous Delivery by Travic CI to Heroku
+# Minimalistic Node App Continuous Delivery through Travic CI to Heroku
 
 ## Direct feature ancestors
 
