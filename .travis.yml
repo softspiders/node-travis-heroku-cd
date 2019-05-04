@@ -3,7 +3,7 @@ node_js:
  - "node"
 notifications:
   email:
-    - alexanderlapygin@gmail.com
+    - $DEV_EMAIL_1
 deploy:
   provider: heroku
   api_key:
