@@ -11,7 +11,7 @@
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
-* [Heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## Installation
 
