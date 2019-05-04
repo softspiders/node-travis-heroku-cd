@@ -2,11 +2,8 @@ language: node_js
 node_js:
  - "node"
 notifications:
-  recipients:
-    - alexanderlapygin@gmail.com
   email:
-    on_success: always
-    on_failure: always
+    - alexanderlapygin@gmail.com
   deploy:
   provider: heroku
   api_key:
