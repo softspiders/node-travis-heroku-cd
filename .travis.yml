@@ -4,7 +4,7 @@ node_js:
 notifications:
   email:
     - alexanderlapygin@gmail.com
-    - softspidermail@gmail.com
+    - sftspider@gmail.com
 deploy:
   provider: heroku
   api_key:
