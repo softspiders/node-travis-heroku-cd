@@ -11,6 +11,8 @@
 ## Requirements
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
+* Registration in [Travis CI](https://travis-ci.com/)
+* Registration in [Heroku](https://devcenter.heroku.com/)
 * [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## Installation
