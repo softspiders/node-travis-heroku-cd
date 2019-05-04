@@ -2,9 +2,12 @@ language: node_js
 node_js:
  - "node"
 notifications:
-  email:
+  recipients:
     - $DEV_EMAIL
-deploy:
+  email:
+    on_success: always
+    on_failure: always
+  deploy:
   provider: heroku
   api_key:
     secure: $HEROKU_API_KEY
