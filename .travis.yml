@@ -3,7 +3,7 @@ node_js:
  - "node"
 notifications:
   recipients:
-    - $DEV_EMAIL
+    - alexanderlapygin@gmail.com
   email:
     on_success: always
     on_failure: always
