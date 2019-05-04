@@ -1,7 +1,7 @@
 language: node_js
 node_js:
  - "node"
-# Test comments
+#Test comments
 notifications:
   email:
     - alexanderlapygin@gmail.com
