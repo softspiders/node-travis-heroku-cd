@@ -10,7 +10,8 @@
 
 ## Requirements
 
-[Node.js](https://nodejs.org/en/download/package-manager/)
+* [Node.js](https://nodejs.org/en/download/package-manager/)
+* [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## Installation
 
