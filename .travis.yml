@@ -11,3 +11,4 @@ deploy:
     secure: $HEROKU_API_KEY
   app:
     master: node-travis-heroku-cd
+    production: node-travis-heroku-production
