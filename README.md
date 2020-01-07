@@ -1,5 +1,17 @@
 # Minimalistic Node App Continuous Delivery through Travic CI to Heroku
 
+## Feature tags
+
+- build
+- ci
+- cd
+- deploy
+- heroku
+- jest
+- template
+- travis
+- nodejs
+
 ## Direct feature ancestors
 
 [node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
