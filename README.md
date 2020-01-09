@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Minimalistic Node App Continuous Delivery through Travic CI to Heroku
 
 ## Feature tags
@@ -12,17 +14,13 @@
 - travis
 - nodejs
 
-## Direct feature ancestors
+## Direct ancestors
 
-[node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
-
-## Direct code ancestors
-
-[node-testing-in-travis](https://github.com/softspider/node-testing-in-travis)
+[node-testing-in-travis](https://github.com/softspider/node-testing-in-travis) - also by code
 
 ---
 
-## Direct feature descendants
+## Direct descendants
 
 [puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
 
