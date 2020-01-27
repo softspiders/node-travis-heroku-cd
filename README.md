@@ -16,13 +16,13 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[node-testing-in-travis](https://github.com/softspider/node-testing-in-travis) - also by code
+[node-testing-in-travis](https://github.com/softspiders/node-testing-in-travis) - also by code
 
 ---
 
 ## Direct descendants
 
-[puppeteer-jest-travis-heroku](https://github.com/softspider/puppeteer-jest-travis-heroku)
+[puppeteer-jest-travis-heroku](https://github.com/softspiders/puppeteer-jest-travis-heroku)
 
 ---
 
