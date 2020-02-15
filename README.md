@@ -5,8 +5,8 @@
 ## Feature tags
 
 - build
-- ci
 - cd
+- ci
 - deploy
 - heroku
 - jest
