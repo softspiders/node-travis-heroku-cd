@@ -10,9 +10,10 @@
 - deploy
 - heroku
 - jest
+- nodejs
+- starter
 - template
 - travis
-- nodejs
 
 ## Direct ancestors
 
